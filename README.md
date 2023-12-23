@@ -8,4 +8,4 @@
 ## 3)Download the model and place it in models folder. ( !wget https://data.deepai.org/deoldify/ColorizeArtistic_gen.pth -O ./models/ColorizeArtistic_gen.pth) 
 ## 4)Activate yout virtual environment.
 ## 5)Run streamlit run app.py to start the website.
-
+## 6)Sample image link to test https://i.ibb.co/RYYxCn8/images.jpg
